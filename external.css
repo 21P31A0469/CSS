@@ -1,0 +1,303 @@
+/*	height: 220px;
+	width: 240px;
+	border: 7px solid pink;
+	background-image:url('C:\Users\sunka\OneDrive\Desktop\FSD\HTML\images\fruits\orange.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+}*/
+/*input[type]{
+	color:pink
+
+}
+input[type="text"]{
+	color:blue
+
+}
+input[type="number"]{
+	color:orange
+
+}
+a[href]{
+	background-color:yellow
+}
+img src[]{
+      font-size:100px;
+      border:30px;
+ }/*
+ /*.main{
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 60px;
+}
+.abc{
+	height: 100px;
+	width: 800px;
+	background-color: white;
+}
+.image{
+	display: block;
+	margin-left: 500px;
+	margin-right: 500px;
+	height: 25px;
+	width: 10%;
+	border: 20px solid white;
+}
+.title{
+	font-size: 20px;
+}
+.heading{
+	height: 25px;
+	width: 800px;
+	font-size: 25px;
+	font-family: italic;
+}
+#home{
+	font-family: italic;
+	font-size: 20px;
+}
+#header{
+	text-indent: left;
+	font-family: italic;
+	font-size: 15px;
+}
+#table{
+	font-family: bold;
+	font-size: 40px;
+}
+table,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 50px;
+	width: 1000px;
+	text-align: left;
+	margin-left: 50px;
+}
+#unorder{
+	font-family: bold;
+	font-size: 40px;
+}
+.un{
+	font-family: italic;
+	font-size: 20px;
+}
+#order{
+	font-family: italic;
+	font-size: 40px;
+}
+.or{
+	font-family: italic;
+	font-size: 20px;
+}
+#dis{
+	font-family: bold;
+	font-size: 40px;
+}
+dt{
+	font: bold;
+	font-size: 20px;
+}
+#text{
+	font-family: bold;
+	font-size: 40px;
+}
+.pre{
+	font-family: bold;
+	font-size: 20px;
+}
+.div{
+	height: 200px;
+	width: 1000px;
+	text-align: center;
+	font-family: cursive;
+	background-color: rgb(242, 243, 244);
+	border: 20px solid rgb(242, 243, 244);
+}
+.code{
+	font-family: bold;
+	font-size: 40px;
+}
+#block{
+	font-family: bold;
+	font-size: 40px;
+}
+.swa{
+	font-family: italic;
+	font-size: 20px;
+}
+.bha{
+	font-family: oblique;
+	font-size: 20px;
+}
+.lab{
+	height: 50px;
+	width: 50px;
+}
+.form{
+	font-family: italic;
+	font-size: 20px;
+	text-align: right;
+}
+.last{
+	height: 100px;
+	width: 1200px;
+	background-color: rgb(242, 243, 244);
+	text-align: center;
+	display: block;
+	padding-top: 50px;
+}
+div{
+	height: 500px;
+	width: 500px;
+	border: 5px solid red;
+}*/
+/*.abc{
+            height: 500px;
+ 			width: 500px;
+			border-style: single;
+			border outline-style:dotted;
+			border-color: red;
+
+		}*/
+/*div{
+	height:50px;
+	width: 50px;
+	border: 5px solid white;
+}*/
+/*div {
+	display: grid;
+	grid-template-colomns: 50% 50%;
+}*/
+/*p{	padding: 20px;
+	width: 140px;
+	text-align: center;
+}
+.dotted {
+	border-style: dotted;
+}
+.dashed {
+	border-alige: right;
+	border-style: dashed;
+}*/
+/*.solid {
+	border-style: solid;
+	height: 300px;
+	width: 300px;
+	padding:1px;
+	background: white;
+	padding-top: 100px;
+
+}
+. {
+	border-style: circle;
+	height: 300px;
+	width: 200px;
+	padding:1px;
+	background: white;
+	padding-top: 100px
+	border: 2px solid black;
+	border radius:100%;
+	float:left;
+}*/
+
+/*.double {
+	border-style: double;
+}
+.groove {
+	border-style: grrove;
+}
+.ridge {
+	border-style: ridge;
+}
+.inset {
+	border-style: inset;
+}
+.outset {
+	border-style: outset;
+}
+.none {
+	border-style: none;
+}
+.hidden {
+	border-style: hidden;
+}
+/*.left-1{
+	background-color: blue;
+	background-corner-shape:scoop;
+	border radius:50px;
+	width: 200px;
+	height: 200px;
+}*/
+             /*.one{
+			background: white;
+			border: 1px solid blue;
+			height:500px;
+			width:500px;
+
+		}
+		.two{
+			background: white;
+			border: 1px solid blue;
+			height:500px;
+			width:500px;
+
+
+		}
+		.three{
+			background: white;
+			border: 1px solid blue;
+			height:500px;
+			width:500px;
+		}*/
+}
+/*.Drive {
+	border-style: solid;
+	height: 300px;
+	width: 300px;
+	padding:20px;
+	border: 20px solid blue;
+	background: white;
+
+}*/
+/*.main{
+	height: 500px;
+	width: 900px;
+	background: lightgreen;
+}
+.border{
+	width: 800px;
+	height: 400px;
+	background: darkeblue;
+	margin-left: 50px;
+	margin-right: 25px;
+	margin-top: 25px;
+}
+.padding{
+	width: 700px;
+	height: 300px;
+	background: lightgray;
+	margin-left: 50px;
+	margin-right: 25px;
+	margin-top: 25px;
+}
+.con{
+	width: 600px;
+	height: 200px;
+	background: black;
+	margin-left: 50px;
+	margin-right: 25px;
+	margin-top: 25px;
+}*/
+            h1{
+			text-align: center;
+			text-shadow: 2px 2px 3px blue,5px 5px 4px red;
+		}
+		div{
+			height:500px ;
+			width: 300px;
+			border: 2px solid blue;
+		}
+		p{
+			text-align: justify;
+			text-transform: uppercase;
+		}
